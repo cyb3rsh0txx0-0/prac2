@@ -1,1 +1,3 @@
-print("unico aporte que tendra actualmente main")
+
+for i in range(1,6):
+	print(i)
